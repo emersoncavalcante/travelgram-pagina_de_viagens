@@ -7,7 +7,7 @@ Um projeto onde pratiquei os conhecimentos que venho estudando em HTML e CSS e p
 
 O **Travelgram** é inspirado em plataformas como o Instagram, mas com foco exclusivo em viagens. A interface exibe um perfil de usuário com galeria de fotos, informações sobre os destinos visitados e dados do usuário. O objetivo do projeto é treinar habilidades de HTML, CSS e organização de layout moderno, responsivo e visualmente agradável.
 
-![Preview do Projeto](./screenshot.png) <!-- ou substitua pelo link da imagem online -->
+![Preview do Projeto](assets/FireShot%20Capture%20001%20-%20Travelgram%20-%20Perfil%20de%20viagens%20-%20[].png) <!-- ou substitua pelo link da imagem online -->
 
 ## 🛠️ Tecnologias Utilizadas
 
