@@ -40,8 +40,8 @@ Durante o desenvolvimento, trabalhei conceitos como:
 
 ## 🔗 Deploy
 
-> Em breve no GitHub Pages / Vercel / Netlify  
-<!-- Exemplo: https://seuusuario.github.io/travelgram -->
+
+<!-- https://emersoncavalcante.github.io/travelgram-pagina_de_viagens/ -->
 
 ## 🧑‍💻 Desenvolvedor
 
